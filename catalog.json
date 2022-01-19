@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "category": "catalog",
+    "image": "created-by-lavka",
+    "text": "Придумано Яндекс.Лавкой",
+    "subcategories": [
+      {
+        "id": "all-from-lavka",
+        "image": "all-from-lavka",
+        "text": "Всё \"Из Лавки\"",
+        "grid": 3
+      },
+      {
+        "id": "new",
+        "text": "Новое",
+        "image": "new",
+        "grid": 2
+      },
+      {
+        "id": "important-things",
+        "text": "Важные мелочи",
+        "image": "important-things",
+        "grid": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "catalog",
+    "image": "ready-food",
+    "text": "Готовая еда",
+    "subcategories": [
+      {
+        "id": "main-menu",
+        "text": "Основное меню",
+        "image": "main-menu",
+        "grid": 3
+      },
+      {
+        "id": "food-from-lavka",
+        "text": "Еда от Лавки",
+        "image": "food-from-lavka",
+        "grid": 1
+      },
+      {
+        "id": "bakary-and-confectionery",
+        "text": "Пекарня и кондитерская",
+        "image": "bakary-and-confectionery",
+        "grid": 1
+      },
+      {
+        "id": "hot-coffee",
+        "text": "Горячий кофе",
+        "image": "hot-coffee",
+        "grid": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "catalog",
+    "image": "vegetables",
+    "text": "Овощной прилавок",
+    "subcategories": [
+      {
+        "id": "vegetables-mushrooms-green",
+        "text": "Овощи, грибы и зелень",
+        "image": "vegetables-mushrooms-green",
+        "grid": 3
+      },
+      {
+        "id": "fruits-berries",
+        "text": "Фрукты и ягоды",
+        "image": "fruits-berries",
+        "grid": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "catalog",
+    "image": "milk",
+    "text": "Молочный прилавок",
+    "subcategories": [
+      {
+        "id": "milk-butter-eggs",
+        "text": "Молоко, масло и яйца",
+        "image": "milk-butter-eggs",
+        "grid": 2
+      },
+      {
+        "id": "cheeses",
+        "text": "Сыры",
+        "image": "cheeses",
+        "grid": 1
+      },
+      {
+        "id": "kefir-sour-cream-cottage-cheese",
+        "text": "Кефир, сметана и творог",
+        "image": "kefir-sour-cream-cottage-cheese",
+        "grid": 1
+      },
+      {
+        "id": "yogurts-desert",
+        "text": "Йогурты и десерты",
+        "image": "yogurts-desert",
+        "grid": 1
+      },
+      {
+        "id": "dairy-for-children",
+        "text": "Молочное для детей",
+        "image": "dairy-for-children",
+        "grid": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "catalog",
+    "image": "bakary",
+    "text": "Булочная",
+    "subcategories": [
+      {
+        "id": "bread",
+        "text": "Хлеб",
+        "image": "bread",
+        "grid": 2
+      },
+      {
+        "id": "baking",
+        "text": "Выпечка",
+        "image": "baking",
+        "grid": 2
+      },
+      {
+        "id": "loaves",
+        "text": "Хлебцы",
+        "image": "loaves",
+        "grid": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "catalog",
+    "image": "drinks",
+    "text": "Вода и напитки",
+    "subcategories": [
+      {
+        "id": "water",
+        "text": "Вода",
+        "image": "water",
+        "grid": 2
+      },
+      {
+        "id": "juice-fruit-drink",
+        "text": "Соки и морсы",
+        "image": "juice-fruit-drink",
+        "grid": 1
+      },
+      {
+        "id": "soda",
+        "text": "Газировка",
+        "image": "soda",
+        "grid": 1
+      },
+      {
+        "id": "ice-tea-coffee",
+        "text": "Холодный чай и кофе",
+        "image": "ice-tea-coffee",
+        "grid": 1
+      },
+      {
+        "id": "energy-beer",
+        "text": "Энергетики и пиво",
+        "image": "energy-beer",
+        "grid": 1
+      }
+    ]
+  }
+]
